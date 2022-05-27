@@ -3,4 +3,5 @@ title = "Contato"
 slug = "contact"
 +++
 
-Me siga em @joaoninguem.
+Email: awkhan978@gmail.com
+Linkedin: https://www.linkedin.com/in/abdul-wakeel-271515aa/
