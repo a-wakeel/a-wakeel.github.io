@@ -165,6 +165,11 @@ name = "My Resume"
 weight = 1
 url = "awakeel_cv.pdf"
 
+[[languages.en.menu.main]]
+name = "My Activities"
+weight = 1
+url = "activities.md"
+
 # [languages.pt-br]
 # languageName = ":brazil:"
 # title = "João Ninguém"
