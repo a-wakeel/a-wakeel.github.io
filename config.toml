@@ -168,7 +168,7 @@ url = "awakeel_cv.pdf"
 [[languages.en.menu.main]]
 name = "My Activities"
 weight = 1
-url = "activities.md"
+url = "activities/"
 
 # [languages.pt-br]
 # languageName = ":brazil:"
