@@ -166,14 +166,14 @@ weight = 5
 url = "contact/"
 
 [[languages.en.menu.main]]
-name = "My Resume"
+name = "Resume"
 weight = 1
-url = "awakeel_cv.pdf"
+url = "resume/"
 
-[[languages.en.menu.main]]
-name = "My Activities"
-weight = 1
-url = "activities/"
+#[[languages.en.menu.main]]
+#name = "My Activities"
+#weight = 1
+#url = "activities/"
 
 # [languages.pt-br]
 # languageName = ":brazil:"
