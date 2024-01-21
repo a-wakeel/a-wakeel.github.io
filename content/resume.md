@@ -1,6 +1,6 @@
 # Resume
 
-### [Download PDF Version](awakeel_cv.pdf)
+### [Download PDF Version](../static/awakeel_cv.pdf)
 
 - **Email:** [awkhan978@gmail.com](mailto:awkhan978@gmail.com)
 - **LinkedIn:** [a-wakeel](https://www.linkedin.com/in/a-wakeel/)
@@ -95,6 +95,7 @@ Results-driven Senior Software Engineer with over 7+ years of expertise in backe
 ## Training’s & Workshops
 
 ### Trainer for <DIRBS CORE DEVELOPMENT & UNDERSTANDING> - Kementerian Perindustrian, Ministry of Industry
+
 Jakarta, Indonesia
 
 - Introduced the working of DIRBS and its underlying concepts.
