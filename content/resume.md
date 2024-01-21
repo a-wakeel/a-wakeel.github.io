@@ -1,16 +1,16 @@
-# Abdul Wakeel
+# Resume
 
-- **Location:** Kabul, 1001, Afghanistan
+### [Download PDF Version](awakeel_cv.pdf)
+
 - **Email:** [awkhan978@gmail.com](mailto:awkhan978@gmail.com)
 - **LinkedIn:** [a-wakeel](https://www.linkedin.com/in/a-wakeel/)
 - **GitHub:** [a-wakeel](https://github.com/a-wakeel)
-- **Phone:** (+92) 303-9421355
 
 ---
 
 ## Summary
 
-Results-driven Senior Software Engineer with over 6+ years of expertise in backend development, data engineering, and CI/CD. Proficient in Python, Java, and JavaScript, leveraging frameworks like Flask and Django, along with technologies such as Docker, Git, and CI/CD pipelines. Recognized for delivering innovative solutions, optimizing processes, and ensuring the development of robust and scalable software systems. A collaborative team player committed to continuous learning and adept at problem-solving.
+Results-driven Senior Software Engineer with over 7+ years of expertise in backend development, data engineering, and CI/CD. Proficient in Python, Java, and JavaScript, leveraging frameworks like Flask and Django, along with technologies such as Docker, Git, and CI/CD pipelines. Recognized for delivering innovative solutions, optimizing processes, and ensuring the development of robust and scalable software systems. A collaborative team player committed to continuous learning and adept at problem-solving.
 
 ## Skills
 
@@ -95,17 +95,13 @@ Results-driven Senior Software Engineer with over 6+ years of expertise in backe
 ## Training’s & Workshops
 
 ### Trainer for <DIRBS CORE DEVELOPMENT & UNDERSTANDING> - Kementerian Perindustrian, Ministry of Industry
+Jakarta, Indonesia
 
 - Introduced the working of DIRBS and its underlying concepts.
 - Introduced how the DIRBS system will work in the country and what will be its impact.
 - Helped in understanding the underlying source code and its development and maintenance.
 
 ## Education
-
-### COMSATS University - B.S. in Computer Science
-
-- Jakarta, Indonesia
-- Sep. 2019
 
 ### COMSATS University - B.S. in Computer Science
 
