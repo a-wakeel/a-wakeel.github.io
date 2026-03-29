@@ -1,4 +1,4 @@
-baseURL = "http://www.a-wakeel.github.io"
+baseURL = "https://a-wakeel.github.io"
 title = "Abdul Wakeel"
 theme = "hugo-coder"
 languageCode = "en"
@@ -14,9 +14,9 @@ enableEmoji = true
 [params]
 author = "Abdul Wakeel"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "My personal Website"
+description = "Abdul Wakeel - Senior Software Engineer specializing in backend development, data engineering, and scalable systems"
 keywords = "blog,developer,personal"
-info = ["Software Engineer"]
+info = ["Senior Software Engineer", "Backend & Data Engineering"]
 avatarURL = "images/awakeel-img.jpg"
 #gravatar = "john.doe@example.com"
 # dateFormat = "January 2, 2006"
