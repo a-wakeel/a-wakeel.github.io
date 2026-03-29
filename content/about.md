@@ -27,3 +27,5 @@ I'm always open to new opportunities, collaborations, and conversations. Feel fr
 Here's to coding, creativity, and the endless possibilities of technology! 🚀
 
 Cheers
+
+{{< github-activity >}}
